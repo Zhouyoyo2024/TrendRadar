@@ -13,9 +13,9 @@ presets:
 
     default:
       collect: true
-      analyze: false
+      analyze: true
       ai_mode: "current"
-      push: false
+      push: true
       report_mode: "current"
       once:
         analyze: true
