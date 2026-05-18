@@ -30,7 +30,7 @@ presets:
         analyze: true
         ai_mode: "current"
         push: true
-        report_mode: "current"
+        report_mode: "incremental"
         once:
           analyze: true
           push: true
