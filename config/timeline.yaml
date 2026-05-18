@@ -13,13 +13,13 @@ presets:
 
     default:
       collect: true
-      analyze: true
+      analyze: false
       ai_mode: "current"
-      push: true
+      push: false
       report_mode: "current"
       once:
         analyze: true
-        push: true
+        push: false
 
     periods:
 
